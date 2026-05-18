@@ -48,5 +48,15 @@ These patterns are concerned with algorithms and the assignment of responsibilit
 - **Common Vocabulary:** They provide a standard terminology and are specific to particular scenarios. (e.g., saying "We need a Singleton here" immediately communicates the design intent to other developers).
 - **Best Practices:** They represent the best practices used by experienced object-oriented software developers.
 
+## 👨‍💻 About Me
+
+Hi! I'm **Brahim Naji**, a fourth-year student engineer at ENSAF. 
+I am a future AI engineer with a strong passion for:
+- 🧠 Artificial Intelligence & Machine Learning
+- 🏛️ System Design & Architecture
+- 🔐 Cybersecurity
+
+Feel free to connect with me if you share similar interests or want to discuss software engineering!
+
 ---
 *If you find this repository helpful, feel free to use it as a reference for your own learning!*
