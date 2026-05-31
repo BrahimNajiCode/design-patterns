@@ -6,14 +6,14 @@ Welcome to my Design Patterns learning repository! This project documents my pat
 ## 📚 Table of Contents
 
 - [Objective](#objective)
-- [Repository Structure](#repository-structure)
+- [Repository Structure](#repository-structure-hierarchy)
 - [Documentation & Diagrams](#documentation--diagrams)
 - [Design Pattern Categories](#design-pattern-categories)
   - [Creational Patterns](#creational-patterns)
   - [Structural Patterns](#structural-patterns)
   - [Behavioral Patterns](#behavioral-patterns)
 - [How to Use](#how-to-use-this-repository)
-- [Why Design Patterns Matter](#why-design-patterns-matter)
+- [Why Design Patterns Matter](#why-learn-design-patterns)
 - [About Me](#about-me)
 
 ## 🎯 Objective
