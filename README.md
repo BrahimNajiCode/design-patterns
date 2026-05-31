@@ -2,6 +2,20 @@
 
 Welcome to my Design Patterns learning repository! This project documents my path to understanding and mastering software design patterns. I created this repository as a personal knowledge base and a shareable guide for anyone interested in learning how to solve common software design problems effectively.
 
+
+## 📚 Table of Contents
+
+- [Objective](#objective)
+- [Repository Structure](#repository-structure)
+- [Documentation & Diagrams](#documentation--diagrams)
+- [Design Pattern Categories](#design-pattern-categories)
+  - [Creational Patterns](#creational-patterns)
+  - [Structural Patterns](#structural-patterns)
+  - [Behavioral Patterns](#behavioral-patterns)
+- [How to Use](#how-to-use-this-repository)
+- [Why Design Patterns Matter](#why-design-patterns-matter)
+- [About Me](#about-me)
+
 ## 🎯 Objective
 
 The main goal of this repository is to:
@@ -20,6 +34,22 @@ src/
 ├── structural/      # Patterns that deal with object composition and structure
 └── behavioral/      # Patterns that deal with object interaction and responsibility
 ```
+
+## 📄 Documentation & Diagrams
+
+All design pattern documentation (UML / class diagrams) is stored in:
+
+```text
+docs/
+├── creational/      # Explanations & summaries
+└── uml_diagrams.pdf      # UML class diagrams (PDF)
+```
+Each pattern includes:
+
+📌 UML class diagram
+🧠 Concept explanation
+💻 Java implementation
+▶️ Example usage (Main class)
 
 ### 1. Creational Patterns
 These patterns provide various object creation mechanisms, which increase flexibility and reuse of existing code. They hide the creation logic instead of instantiating objects directly using the `new` operator.
@@ -40,7 +70,7 @@ These patterns are concerned with algorithms and the assignment of responsibilit
    - The theoretical concept and interfaces.
    - Concrete implementations.
    - A `Main` or `Client` class demonstrating how the pattern works in practice.
-3. **Run the examples:** Since this is an IntelliJ IDEA project, you can easily open it in your IDE and run the `main` method for each pattern to see the output in action.
+3. **Run the examples:** Since this is an IntelliJ IDEA project, you can easily open it in your IDE and run the `main` or `App` method for each pattern to see the output in action.
 
 ## 💡 Why Learn Design Patterns?
 
