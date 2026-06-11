@@ -1,7 +1,17 @@
+<div align="center">
+
 # Design Patterns Learning Journey 🚀
+
+![CI](https://github.com/BrahimNajiCode/design-patterns/actions/workflows/build.yml/badge.svg)
+![Java](https://img.shields.io/badge/Java-24-orange?logo=openjdk)
+![Maven](https://img.shields.io/badge/Build-Maven-C71A36?logo=apachemaven)
+![Patterns](https://img.shields.io/badge/Patterns-GoF%2023-blueviolet)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 
 Welcome to my Design Patterns learning repository! This project documents my path to understanding and mastering software design patterns. I created this repository as a personal knowledge base and a shareable guide for anyone interested in learning how to solve common software design problems effectively.
 
+</div>
 
 ## 📚 Table of Contents
 
@@ -51,6 +61,8 @@ Each pattern includes:
 💻 Java implementation
 ▶️ Example usage (Main class)
 
+## 🗂️ Design Pattern Categories
+
 ### 1. Creational Patterns
 These patterns provide various object creation mechanisms, which increase flexibility and reuse of existing code. They hide the creation logic instead of instantiating objects directly using the `new` operator.
 *Examples: Singleton, Factory Method, Abstract Factory, Builder, Prototype.*
@@ -80,7 +92,7 @@ These patterns are concerned with algorithms and the assignment of responsibilit
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Brahim Naji**, a fourth-year student engineer at ENSAF. 
+Hi! I'm **Brahim Naji**, a fourth-year student engineer at ENSAF.
 I am a future AI engineer with a strong passion for:
 - 🧠 Artificial Intelligence & Machine Learning
 - 🏛️ System Design & Architecture
